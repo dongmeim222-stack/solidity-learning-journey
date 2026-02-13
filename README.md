@@ -1,2 +1,2 @@
 # solidity-learning-journey
-solidity_repository
+this is s solidity_repository
